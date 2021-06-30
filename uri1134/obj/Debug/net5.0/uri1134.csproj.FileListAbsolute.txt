@@ -1,0 +1,16 @@
+C:\Users\andre\source\repos\uri1134\uri1134\bin\Debug\net5.0\uri1134.exe
+C:\Users\andre\source\repos\uri1134\uri1134\bin\Debug\net5.0\uri1134.deps.json
+C:\Users\andre\source\repos\uri1134\uri1134\bin\Debug\net5.0\uri1134.runtimeconfig.json
+C:\Users\andre\source\repos\uri1134\uri1134\bin\Debug\net5.0\uri1134.runtimeconfig.dev.json
+C:\Users\andre\source\repos\uri1134\uri1134\bin\Debug\net5.0\uri1134.dll
+C:\Users\andre\source\repos\uri1134\uri1134\bin\Debug\net5.0\ref\uri1134.dll
+C:\Users\andre\source\repos\uri1134\uri1134\bin\Debug\net5.0\uri1134.pdb
+C:\Users\andre\source\repos\uri1134\uri1134\obj\Debug\net5.0\uri1134.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\uri1134\uri1134\obj\Debug\net5.0\uri1134.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\uri1134\uri1134\obj\Debug\net5.0\uri1134.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\uri1134\uri1134\obj\Debug\net5.0\uri1134.AssemblyInfo.cs
+C:\Users\andre\source\repos\uri1134\uri1134\obj\Debug\net5.0\uri1134.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\uri1134\uri1134\obj\Debug\net5.0\uri1134.dll
+C:\Users\andre\source\repos\uri1134\uri1134\obj\Debug\net5.0\ref\uri1134.dll
+C:\Users\andre\source\repos\uri1134\uri1134\obj\Debug\net5.0\uri1134.pdb
+C:\Users\andre\source\repos\uri1134\uri1134\obj\Debug\net5.0\uri1134.genruntimeconfig.cache
